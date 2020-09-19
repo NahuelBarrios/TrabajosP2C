@@ -1,0 +1,10 @@
+C:\Users\Nahu_\OneDrive\Escritorio\TPS2C\TP1\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Nahu_\OneDrive\Escritorio\TPS2C\TP1\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\Users\Nahu_\OneDrive\Escritorio\TPS2C\TP1\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nahu_\OneDrive\Escritorio\TPS2C\TP1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Nahu_\OneDrive\Escritorio\TPS2C\TP1\Entidades\Entidades\obj\Debug\Entidades.Form1.resources
+C:\Users\Nahu_\OneDrive\Escritorio\TPS2C\TP1\Entidades\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\Users\Nahu_\OneDrive\Escritorio\TPS2C\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.GenerateResource.cache
+C:\Users\Nahu_\OneDrive\Escritorio\TPS2C\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nahu_\OneDrive\Escritorio\TPS2C\TP1\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\Users\Nahu_\OneDrive\Escritorio\TPS2C\TP1\Entidades\Entidades\obj\Debug\Entidades.pdb
